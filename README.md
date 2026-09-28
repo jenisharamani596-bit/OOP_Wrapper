@@ -171,60 +171,6 @@ Choose details to show:
 2. Employee
 3. Manager
 4. Developer
-Enter your choice: 1
-
-Person Details:
-Name: jenisha
-Age: 21
-
---- Choose another operation ---
-
-Choose an operation:
-1. Create a Person
-2. Create an Employee
-3. Create a Manager
-4. Developer
-Enter your choice: 2
-
-Employee Details:
-Name: kinjal
-Age: 23
-Employee ID: M121
-Salary: $ 90000.0
-
---- Choose another operation ---
-
-Choose an operation:
-1. Create a Person
-2. Create an Employee
-3. Create a Manager
-4. Create a Developer
-5. Show Details
-6. Exit
-
-Enter your choice: 5
-
-Choose details to show:
-1. Person
-2. Employee
-3. Manager
-4. Developer
-Enter your choice: 3
-
-Manager Details:
-Name: parag
-Age: 21
-Employee ID: M122
-Salary: $ 80000.0
-Department: sales
-
---- Choose another operation ---
-
-Choose details to show:
-1. Person
-2. Employee
-3. Manager
-4. Developer
 Enter your choice: 4
 
 Developer Details:
@@ -249,6 +195,3 @@ Enter your choice: 6
 Exiting the system. All resources have been freed.
 Goodbye!
 ```
-
----
-
